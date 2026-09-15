@@ -7,3 +7,9 @@ node_modules/
 # environment variables
 .env
 .env.production
+
+# editor / assistant files
+.vscode/
+AGENTS.md
+CLAUDE.md
+desktop.ini
