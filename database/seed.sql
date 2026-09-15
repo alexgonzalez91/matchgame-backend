@@ -80,9 +80,9 @@ VALUES
 ),
 (
     5,
-    'Baldurs Gate 3',
+    'Baldur''s Gate 3',
     'RPG centrado en decisiones, exploración y combates estratégicos por turnos.',
-    '/images/juegos/baldurs-Gate-3.webp',
+    '/images/juegos/baldurs-gate-3.webp',
     '2023-08-03',
     9.7,
     3
@@ -100,7 +100,7 @@ VALUES
     7,
     'Stardew Valley',
     'Simulador de vida rural con agricultura, exploración y relaciones sociales.',
-    'images/juegos/stardew-valley.webp',
+    '/images/juegos/stardew-valley.webp',
     '2016-02-26',
     9.0,
     8
@@ -109,7 +109,7 @@ VALUES
     8,
     'DOOM Eternal',
     'Shooter de acción rápida centrado en combatir hordas demoníacas.',
-    'images/juegos/doom-eternal.webp',
+    '/images/juegos/doom-eternal.webp',
     '2020-03-20',
     9.0,
     10
@@ -118,7 +118,7 @@ VALUES
     9,
     'Forza Horizon 5',
     'Juego de conducción de mundo abierto ambientado en una versión de México.',
-    'images/juegos/forza-horizon-5.webp',
+    '/images/juegos/forza-horizon-5.webp',
     '2021-11-09',
     9.1,
     6
@@ -127,7 +127,7 @@ VALUES
     10,
     'Dead Space',
     'Aventura de terror y ciencia ficción ambientada en una nave minera.',
-    'images/juegos/dead-space.webp',
+    '/images/juegos/dead-space.webp',
     '2023-01-27',
     9.0,
     7
@@ -280,7 +280,7 @@ VALUES
     11,
     'The Witcher 3: Wild Hunt',
     'RPG de mundo abierto centrado en las aventuras del brujo Geralt de Rivia.',
-    'images/juegos/the-witcher-3.webp',
+    '/images/juegos/the-witcher-3.webp',
     '2015-05-19',
     9.6,
     3
@@ -289,7 +289,7 @@ VALUES
     12,
     'Cyberpunk 2077',
     'RPG de acción ambientado en la futurista y peligrosa Night City.',
-    'images/juegos/cyberpunk-2077.webp',
+    '/images/juegos/cyberpunk-2077.webp',
     '2020-12-10',
     9.0,
     3
@@ -298,7 +298,7 @@ VALUES
     13,
     'Sekiro: Shadows Die Twice',
     'Juego de acción exigente centrado en el combate con espada y la precisión.',
-    'images/juegos/sekiro.webp',
+    '/images/juegos/sekiro.webp',
     '2019-03-22',
     9.3,
     1
@@ -307,7 +307,7 @@ VALUES
     14,
     'Control',
     'Aventura de acción sobrenatural ambientada en una misteriosa agencia gubernamental.',
-    'images/juegos/control.webp',
+    '/images/juegos/control.webp',
     '2019-08-27',
     8.8,
     1
@@ -316,7 +316,7 @@ VALUES
     15,
     'Alan Wake 2',
     'Aventura de terror psicológico que combina investigación, supervivencia y narrativa.',
-    'images/juegos/alan-wake-2.webp',
+    '/images/juegos/alan-wake-2.webp',
     '2023-10-27',
     9.4,
     7
